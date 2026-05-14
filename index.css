@@ -1,5 +1,7 @@
 h2 {
-    color:rgb(65, 182, 18)
+    color:rgb(65, 182, 18);
+    text-align: center;
+    background-color: aliceblue;
 } 
 p {
     color: black;
@@ -9,5 +11,5 @@ body {
 }
 .responses {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:coral
+
 }
